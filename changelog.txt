@@ -1,0 +1,8 @@
+v1.1
+- Corrected tier 3 text
+- Added a list of tier levels
+- Added soundless strategies for CEO
+
+v1.0
+- Created the calculator
+- Added a random level generator
